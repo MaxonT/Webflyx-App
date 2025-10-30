@@ -24,3 +24,6 @@ and displays curated film lists, quotes, and metadata through a simple web inter
 ---
 
 _This repository was previously part of the "portfolio architecture" branch refactor._
+
+## Run Status
+**Note**: This repository currently does not include a complete runnable application. It provides datasets and documentation for future development and portfolio demonstration.
