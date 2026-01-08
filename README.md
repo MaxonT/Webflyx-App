@@ -9,6 +9,7 @@ and displays curated film lists, quotes, and metadata through a simple web inter
 ## Features
 - Reads `.csv` and `.md` content dynamically
 - Supports classic film metadata
+- 
 - Ready for future integration with AI-powered recommendation modules
 
 ## File Structure
