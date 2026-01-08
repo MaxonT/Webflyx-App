@@ -1,4 +1,3 @@
-
 # Webflyx-App
 
 🎬 A minimal, experimental web app for exploring film data and classic titles.
